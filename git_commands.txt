@@ -1,0 +1,31 @@
+Comandos GIT
+
+
+Download repositório
+- git clone <url>
+
+Incluir arquivo no git
+- git add <file>
+
+Fazer um snapshot no repositório
+- git commit -am <"message">
+
+Mostrar o estatus do reposítorio local
+- git status
+
+Fazer upload do arquivo para o repositório na nuvem
+- git push
+
+Listar as alterações
+- git log
+
+Desfazer alguma alteração
+- git reset --hard <commit>
+- git reset --hard origin/master
+
+
+
+
+
+
+
