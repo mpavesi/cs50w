@@ -24,6 +24,23 @@ Desfazer alguma alteração
 - git reset --hard origin/master
 
 
+Mostar o branch atual
+- git branch
+
+Criar um branch
+- git checkou -b new_branch
+
+Alterar o branch
+- git checkou master
+
+
+
+
+
+
+
+
+
 
 
 
