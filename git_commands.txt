@@ -42,5 +42,5 @@ Atualiza o github
 Atualiza a area ded trablaho HEAD
 - git pull origin main
 
-erifica alteracoes no origin
+verifica alteracoes no origin
 - git remote update
