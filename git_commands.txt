@@ -43,4 +43,4 @@ Atualiza a area ded trablaho HEAD
 - git pull origin main
 
 erifica alteracoes no origin
-- git remvote update
+- git remote update
