@@ -33,16 +33,14 @@ Criar um branch
 Alterar o branch
 - git checkout master
 
+Mostra dados do último commit
+- git show
 
+Atualiza o github
+- git push origin main
 
+Atualiza a area ded trablaho HEAD
+- git pull origin main
 
-
-
-
-
-
-
-
-
-
-
+erifica alteracoes no origin
+- git remvote update
